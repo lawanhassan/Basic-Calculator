@@ -1,7 +1,7 @@
 # Web-based Calculator
-This web-based calculatro for simple arithmatics.
+This web-based calculatro for basic arithmetic.
 # Technologies Used
-HTML
-CSS
-JavaScripts
+1. HTML
+2. CSS
+3. JavaScripts
 
